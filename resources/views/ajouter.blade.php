@@ -87,7 +87,7 @@
         }
     </style>
     
-    <script src="{{ asset('ckeditor5/ckeditor.js') }}"></script>
+    <script src="{{ secure_asset('ckeditor5/ckeditor.js') }}"></script>
 </head>
 
 <body>
